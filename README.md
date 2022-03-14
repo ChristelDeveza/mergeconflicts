@@ -1,4 +1,4 @@
-# mergeconflicts
+LOCAL
 
 Hello world
 
